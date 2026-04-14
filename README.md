@@ -55,3 +55,6 @@ The tokenizer is generated using the tokenizer associated with our selected mode
 The calculation of the metrics is prepared to be fed to the Trainer function from the transformer library.
 
 **Results**
+
+
+### Final word
